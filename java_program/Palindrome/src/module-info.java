@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dashr
+ *
+ */
+module Palindrome {
+}
